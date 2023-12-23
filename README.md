@@ -4,6 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayad-sayad11&label=Profile%20views&color=0e75b6&style=flat" alt="sayad-sayad11" /> </p>
 
 
+<div align="center">
+  <img height=250px src="https://github.com/SenaThenu/SenaThenu/blob/main/Octocat.png"></img>
+</div>
+
+
 
 - 🌱 I’m currently learning **Web Development**
 
